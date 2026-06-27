@@ -1,1 +1,1 @@
-# 2026-6---Canvas-Comet-Perplexity---Indirect-Prompt-Injection
+# 2026-Jun_Canvas-Comet-Perplexity_Indirect-Prompt-Injection
