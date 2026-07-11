@@ -88,7 +88,7 @@ The full report is available here:
 
 ## Responsible Publication Note
 
-This case study was conducted in a controlled environment. No real student credentials or assignment contents from any institution were used. The URL used in testing was researcher-controlled, did not collect private or sensitive information, and has been redacted from the public report. The researcher notified Perplexity on 2026-07-01 and will update this report or repository with any response, clarification, or remediation guidance received. This report is published for defensive evaluation and portfolio documentation.
+This case study was conducted in a controlled environment. No real student credentials or assignment contents from any institution were used. The URL used in testing was researcher-controlled, did not collect private or sensitive information, and has been redacted from the public report. Perplexity was notified on 2026-07-01 and will update this report or repository with any response, clarification, or remediation guidance received. This report is published for defensive evaluation and portfolio documentation.
 
 ## Author
 
