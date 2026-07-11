@@ -94,4 +94,8 @@ This case study was conducted in a controlled environment. No real student crede
 
 Brian C. Melton, Ph.D.
 
+### License / Use
+
+This repository is shared publicly for portfolio, educational, and defensive research purposes. Unless otherwise stated, the report, diagrams, and supporting materials are © Brian C. Melton. Reuse or republication requires attribution and permission.
+
 
